@@ -11,7 +11,7 @@ fuzzywuzzy==0.6.1
 addict==0.2.7
 Flask==0.10.1
 Flask-Cors==1.9.0
-Jinja2==2.7.3
+Jinja2==2.11.3
 MarkupSafe==0.23
 PyYAML==3.11
 Werkzeug==0.9.6
