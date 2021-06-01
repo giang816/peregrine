@@ -20,7 +20,7 @@ elasticsearch==1.2.0
 itsdangerous==0.24
 requests==2.5.2
 six==1.10.0
-urllib3==1.10.0
+urllib3==1.26.5
 wsgiref==0.1.2
 dicttoxml==1.5.8
 sqlalchemy==0.9.9
